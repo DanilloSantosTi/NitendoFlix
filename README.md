@@ -36,12 +36,12 @@
 
 ## ⚙️ Funcionalidades
 
-- [] Os usuários poderão se cadastrar na plataforma web enviando:
-  - [] Nome
-  - [] Email
-  - [] Telefone
+- [ ] Os usuários poderão se cadastrar na plataforma web enviando:
+  - [ ] Nome
+  - [ ] Email
+  - [ ] Telefone
   
-- [] além de selecionar um ou mais Jogos 
+- [ ] além de selecionar um ou mais Jogos 
     
 ---
 
