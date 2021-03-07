@@ -32,7 +32,7 @@
   
   Esse projeto tem o objetivo de mostrar um site com o layout da Netflix e conteúdo da Nitendo.
   
-  Nível do projeto: Básico.
+  <b>Nível do projeto </b>: Básico.
 
 ---
 
