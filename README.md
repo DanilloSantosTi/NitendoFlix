@@ -31,6 +31,8 @@
   Se a Nitendo criasse uma plataforma igual (ou parecida) com o Netflix ? Como ficaria ?
   
   Esse projeto tem o objetivo de mostrar um site com o layout da Netflix e conteúdo da Nitendo.
+  
+  <h3>Nível do projeto</h3>: Básico.
 
 ---
 
